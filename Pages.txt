@@ -1,0 +1,65 @@
+Pages:
+Home (page)
+LIS Introduction
+>Library and Librarianship
+>Information Science
+>Why LIS is Important
+BLIS
+>Notable BLIS Graduates
+>Schools Offering BLIS
+>Organizations for BLIS
+Others
+>Other websites re BLIS
+>Links to other Stuff
+About 
+
+INTRODUCTION TO LIS
+
+ 
+	Hi! I'm sure you're wondering what LIS means and how is it even relevant to our contemporary time. You might have even already jumped to the conclusion that "Oh, it's just a bunch of people organizing books in a bookshelf then getting mad at you if you dont return the books on time". Don't worry, we won't judge but that's not even the tip of the iceberg! 
+
+	Library and Information Science (LIS) is a profession that is full of people passionate about making a positive change in the world, and they tend to be wildly happy about what they do. It begins with the presentation of different attitudes towards LIS and the divergence between LIS as a knowledge producing and knowledge utilizing area. It goes on to discuss the different labels for the discipline, its institutional affiliations and some technology driven paradigms. Fields of LIS practices, examples of concrete research problems and the fundamental concepts are introduced as are subareas, theories, related disciplines, and approaches. 
+
+	As you can see, there is a lot more going on to this field rather than just what you'd expect. Progressing through this website, you shall understand more and more about this profession and see how important this field actually is.
+
+INFORMATION SCIENCE
+
+	Did you know that the term “information science” and “information scientist” was first used by Jason Farradane in the mid-1950s? Well, if yes then you're amazing! If no then the more you know. You may be asking "What is information science?" or "Does this make you an information scientist?". There are three main answers to first question . One considers information science as being concerned with computing, algorithms and information technologies, a second with information as related to entropy in information theory and information physics, a third with information science as being concerned with information recorded in documents, with meaning and knowledge, and hence as growing from the older disciplines of librarianship and documentation. Got that? (No) Yeah, me neither.
+
+	Information science is the science that investigates the properties and behavior of information, the forces governing the flow of information, and the means of processing information for optimum accessibility and usability. It is sensible to speak of the information sciences in the plural, to emphasize the breadth, multidisciplinary nature, and interconnectedness of the field.
+
+	There are a lot of features and aspects of Information Science. Here are a few
+		> Precision, Recall and Relevance
+		> Searching Tools
+		> Database and File Structure
+		> Human-Computer Interaction
+		> Bibliometrics and Citation Analysis
+		> Understanding Information Behavior
+		> Value-added Processes
+
+
+	BONUS "Does this make you an information scientist?" Uhmm techinically yes but who would call you that???
+
+LIBRARY AND LIBRARIANSHIP
+
+	Have you are walked around your town, then noticed this big, red-bricked building filled with books and buzzing with people from here and there. Yepp you guessed it, a library. I'm not talking about National Books store or Fullybooked; neither of those are libraries. (No, this is not sponsored) 
+
+	A Library is a collection of resources in a variety of formats organized by information professionals. This building provides convenient physical, digital, bibliographic, or intellectual access offering a variety of targeted services and programs with the mission of educating, informing, or entertaining a variety of audiences. Its goal is to stimulate individual learning and advancing society as a whole. 
+
+	Libraries have 5 basic functions.
+		1. Identifying and acquiring resources, comprising of print, AV, and electronic resources. 
+		2. Organizing resources to promote accessibility. Once obtained, resources should be organized, described, and presented in such a way that users can efficiently find them. Bibliographic description, search tools and classification systems serve this function.
+		3. Conserving and preserving materials,ensuring that knowledge and information remain available over time regardless of format
+		4. Providing educational programs. As a cultural institution, libraries have served as places where people come to learn.
+		5. Maintaining effective operations, including general administration, financial management, HR, marketing/PR, IT, maintenance and security.
+
+	In a one-person library these tasks are undertaken by a single person. You call this person a "librarian". Kinda makes you wanna rethink about how you look at librarians, huh? Librarians are responsible for looking at the information needs of the primary customers of a particular library. Then they look at the information and library resources that are available to meet those needs. Finally, they plan strategies that will make the most relevant information sources available to their primary clientele in ways that will be most useful to those individuals.
+
+	Importance:
+LIS is pretty much underrated, overshadowed by much bigger sciences such as Physics and Biochemistry. Pushed aside and even mocked by others, LIS still stand tall and proud both as a friend and a profession.
+
+What makes LIS so special? The people, ofcourse! Practitioners are varied, ranging from a wide spectrum of other fields. They help others begin their journey through literacy, with the libraries they manage becoming sources of rich information and a place to nourish creativty. 
+
+Not only does the Library build communities, it also supports families and break down barriers. It even sustains democracy by guarding us against ignorace and conformity. The Library values the individual, open young minds and offers a sanctuary for everyone to enjoy.
+
+Having a wide array of knowledge and sources, the library needs a way to organize all these into neat and tidy heaps of information. This is where information science kicks in. Being a flexible field, information science is very versatile and can adapt to any other fields of science. It is applicable to pretty much any scenario , whether it be arranging bibligraphical index or even evalutation citations.
