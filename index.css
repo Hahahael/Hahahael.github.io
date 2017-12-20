@@ -101,7 +101,7 @@ a.link:hover {
 	margin-right: 50%;
 	text-align: justify;
 	z-index: -1;
-	background-color: rgba(237, 244, 250, 75%);
+	background-color: rgba(237, 244, 250, 0.75);
 	padding:15px;
 	font-size: 3vw;
 }
