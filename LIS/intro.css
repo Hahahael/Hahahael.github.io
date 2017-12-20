@@ -107,7 +107,7 @@ h1#main {
 	background-color: rgba(54, 168, 231, 50%);
 	position: relative;
 	width: 100%;
-	font-family:;
+	font-family:'Exo 2';
 }
 
 h3#sub {
@@ -130,10 +130,11 @@ p#parag {
 	width: 100%;
 	text-align: left;
 	padding: 1%;
+	border-radius: 5px;
 }
 
 div.explore {
-	background-color: #C0B3A0;
+	background-color: #FFce00;
 	list-style-type: none;
 	text-align: center;
 	margin: 1%
