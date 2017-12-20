@@ -25,7 +25,7 @@ li {
 	float:left;
 	border-right:1px solid #bbb;
 	font-family: Ubuntu;
-	font-size: 2vw;
+	font-size: 1.5vw;
 	width:auto;
 	background-color: #44464E;
 }
@@ -78,7 +78,7 @@ li {
 .innertab {
 	float:left;
 	font-family: Ubuntu;
-	font-size: 1.5vw;
+	font-size: 1.25vw;
 	width:auto;
 	background-color: #33353d;
 	border-bottom:1px solid #bbb;
@@ -86,7 +86,7 @@ li {
 }
 
 div.par {
-	font-size: 1.5vw;
+	font-size: 1.25em;
 
 }
 
@@ -94,3 +94,35 @@ div.par {
 	margin: 10%;
 }
 
+h1#main {
+	text-align: center;
+	font-size: 2.5em;
+}
+
+h3#sub {
+	text-align: center;
+	font-size: 1.75em;
+}
+
+p#parag {
+	text-align: justify;
+	margin: 10%;
+}
+
+.par1 {
+	background-color: pink;
+	margin:5%;
+	margin-bottom: 0px;
+}
+
+.par2 {
+	background-color: red;
+	margin:5%;
+	margin-bottom: 0px;
+}
+
+.par3 {
+	background-color: brown;
+	margin:5%;
+	margin-bottom: 0px;
+}

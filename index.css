@@ -25,7 +25,7 @@ li {
 	float:left;
 	border-right:1px solid #bbb;
 	font-family: Ubuntu;
-	font-size: 2vw;
+	font-size: 1.5vw;
 	width:auto;
 	background-color: #44464E;
 }
@@ -78,7 +78,7 @@ li {
 .innertab {
 	float:left;
 	font-family: Ubuntu;
-	font-size: 1.5vw;
+	font-size: 1.25vw;
 	width:auto;
 	background-color: #33353d;
 	border-bottom:1px solid #bbb;
