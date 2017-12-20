@@ -11,7 +11,7 @@ li {
 }
 
 img.header {
-	width:9.5%;
+	width:4%;
 	padding: 0px;
 }
 
@@ -125,19 +125,32 @@ img.intro-img {
 }
 
 .circles {
+	border-radius: 100%;
+	border:0px solid #e14658;
+	height:100px;
+	width:100px;
+	display:inline-block;
+	font-family: 'Josefin Slab'
+	position:relative;
+	margin: 4.5%;
+}
+
+img.circle {
 	background-color: #FDF5E6;
 	border-radius: 100%;
 	border:5px solid #e14658;
 	height:100px;
 	width:100px;
 	display:inline-block;
-	margin:4.5%;
-	margin-top:0%;
 	font-family: 'Josefin Slab'
+	position:relative;
 }
 
 .circles-list {
 	padding: 50px;
+	list-style-type: none;
+	white-space: nowrap;
+	display: block;
 }
 
 p {
