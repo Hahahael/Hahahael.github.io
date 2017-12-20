@@ -1,0 +1,46 @@
+body {
+	background-color: #FDF5E6;
+	margin-left:10%;
+	margin-right: 10%;
+}
+
+/*tabs*/
+a {
+	text-decoration: none;
+	color:black;
+	display: block
+}
+
+a.tabs:hover {
+	background-color: #11141b;
+	color:white;
+}
+
+ul li:hover {
+	background-color: #11141b;
+	color:white;
+}
+
+.tab-elements {
+	padding:1%;
+	float:left;
+	border-right:1px solid #bbb;
+	font-family: Ubuntu;
+	font-size: 2em;
+	width:auto;
+	background-color: #44464E;
+}
+
+.navbar {
+	overflow: hidden;
+	list-style-type: none;
+	background-color: #44464E;
+	color:black;
+	margin-top: 0;
+	margin-bottom: 1%;
+	padding: 0;
+	position: fixed;
+    top: 0;
+    width:80%;
+    z-index: 2;
+}
